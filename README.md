@@ -40,9 +40,13 @@ Adds placeholder content to your clipboard
 
 #### Password - [Download](https://github.com/billerickson/alfred-workflows/blob/master/password/password.alfredworkflow)
 
-Creates a password with two words and one number. Ex: preach35bulked
+Creates a password using words separated by numbers. Ex: preach35bulked. Default is 2 words, but can pass a "word count" parameter
 
 > Trigger: `pw`
+
+> Ex: `pw` Adds 2 word password to clipboard (canned25wives)
+
+> Ex: `pw 4` Adds a 4 word password to clipboard (friable49apport1indulged48collies)
 
 ## Other Workflows I Use
 
