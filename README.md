@@ -43,3 +43,9 @@ Adds placeholder content to your clipboard
 Creates a password with two words and one number. Ex: preach35bulked
 
 > Trigger: `pw`
+
+## Other Workflows I Use
+
+* [Toggl](https://github.com/jason0x43/alfred-toggl)
+* [Colors](https://github.com/TylerEich/Alfred-Extras/blob/master/Workflows/Colors.alfredworkflow)
+* [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow)
