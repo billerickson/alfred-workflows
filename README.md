@@ -8,7 +8,7 @@ Download the `.workflow` file and open using Alfred. The `.php` file shows the c
 
 ## Workflows
 
-#### Capitalize
+#### Capitalize - [Download](https://github.com/billerickson/alfred-workflows/blob/master/capitalize/capitalize.alfredworkflow)
 
 Converts text to capitalized. Useful when copy/pasting uppercase (all caps) text if you don't want it uppercase.
 
