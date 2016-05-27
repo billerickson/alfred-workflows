@@ -15,4 +15,5 @@ Converts text to capitalized. Useful when copy/pasting uppercase (all caps) text
 > Trigger: `cap`
 
 > Ex: `cap` Capitalizes the text in your clipboard
+
 > Ex: `cap CONVERT THIS` Adds "Convert This" to your clipboard
