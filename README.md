@@ -12,3 +12,7 @@ Download the `.workflow` file and open using Alfred. The `.php` file shows the c
 
 Converts text to capitalized. Useful when copy/pasting uppercase (all caps) text if you don't want it uppercase.
 
+> Trigger: `cap`
+
+> Ex: `cap` Capitalizes the text in your clipboard
+> Ex: `cap CONVERT THIS` Adds "Convert This" to your clipboard
