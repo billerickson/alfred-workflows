@@ -27,3 +27,13 @@ Converts text to lowercase. Useful when copy/pasting uppercase (all caps) text i
 > Ex: `lower` Converts the text in your clipboard to lowercase
 
 > Ex: `lower CONVERT THIS` Adds "convert this" to your clipboard
+
+#### Lorem Ipsum - [Download](https://github.com/billerickson/alfred-workflows/blob/master/lorem-ipsum/lorem-ipsum.alfredworkflow)
+
+Adds placeholder content to your clipboard
+
+> Trigger: `lipsum`
+
+> Ex: `lipsum` Adds 5 paragraphs (default) to clipboard
+
+> Ex: `lipsum 1` Adds 1 paragraph to clipboard
