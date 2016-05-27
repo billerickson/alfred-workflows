@@ -37,3 +37,9 @@ Adds placeholder content to your clipboard
 > Ex: `lipsum` Adds 5 paragraphs (default) to clipboard
 
 > Ex: `lipsum 1` Adds 1 paragraph to clipboard
+
+#### Password - [Download](https://github.com/billerickson/alfred-workflows/blob/master/password/password.alfredworkflow)
+
+Creates a password with two words and one number. Ex: preach35bulked
+
+> Trigger: `pw`
