@@ -17,3 +17,13 @@ Converts text to capitalized. Useful when copy/pasting uppercase (all caps) text
 > Ex: `cap` Capitalizes the text in your clipboard
 
 > Ex: `cap CONVERT THIS` Adds "Convert This" to your clipboard
+
+#### Lowercase - [Download](https://github.com/billerickson/alfred-workflows/blob/master/lowercase/lowercase.alfredworkflow)
+
+Converts text to lowercase. Useful when copy/pasting uppercase (all caps) text if you don't want it uppercase.
+
+> Trigger: `lower`
+
+> Ex: `lower` Converts the text in your clipboard to lowercase
+
+> Ex: `lower CONVERT THIS` Adds "convert this" to your clipboard
