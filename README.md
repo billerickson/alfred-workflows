@@ -38,6 +38,16 @@ Adds placeholder content to your clipboard
 
 > Ex: `lipsum 1` Adds 1 paragraph to clipboard
 
+#### what3words - [Download](https://github.com/billerickson/alfred-workflows/blob/master/what3words/what3words.alfredworkflow)
+
+Map any location with 3 words
+
+> Trigger: `w3w`
+
+> Ex: `w3w` Opens map so you can get the 3 word location
+
+> Ex: `w3w offline.trustees.trailing` Opens map to that specific location
+
 #### Password - [Download](https://github.com/billerickson/alfred-workflows/blob/master/password/password.alfredworkflow)
 
 Creates a password using words separated by numbers. Ex: preach35bulked. Default is 2 words, but can pass a "word count" parameter
