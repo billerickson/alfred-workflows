@@ -38,6 +38,10 @@ Adds placeholder content to your clipboard
 
 > Ex: `lipsum 1` Adds 1 paragraph to clipboard
 
+#### Terminal Hotkey - [Download](https://github.com/billerickson/alfred-workflows/blob/master/terminal-hotkey/terminal-hotkey.alfredworkflow)
+
+Toggles the terminal window when pressing Control+Option+Command+Space
+
 #### what3words - [Download](https://github.com/billerickson/alfred-workflows/blob/master/what3words/what3words.alfredworkflow)
 
 Map any location with 3 words
